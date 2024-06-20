@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.10
-      uses: actions/setup-python@v3 # Update to the latest version
+      uses: actions/setup-python@v5 # Update to the latest version
       with:
         python-version: "3.10"
     - name: Install dependencies
