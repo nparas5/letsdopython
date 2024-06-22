@@ -35,9 +35,6 @@ jobs:
     - name: List repository files
       run: ls -al
 
-    - name: List test directory files
-      run: ls -al tests
-
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
