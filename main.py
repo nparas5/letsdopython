@@ -12,9 +12,9 @@ def main():
         choice = input("Enter the number of your choice: ")
 
         if choice == '1':
-            scenario1.run()
+            scenario1.py.run()
         elif choice == '2':
-            scenario2.run()
+            scenario2.py.run()
         elif choice == '3':
             print("Exiting.")
             break
