@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@3
+      uses: actions/setup-python@main
     
     - name: Install dependencies
       run: |
