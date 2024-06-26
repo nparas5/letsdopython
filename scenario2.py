@@ -1,5 +1,4 @@
-def run():
-    print("Scenario 2 is running")
+
 class Field:
     def __init__(self, width, height):
         self.width = width
