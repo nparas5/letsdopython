@@ -82,6 +82,9 @@ Then it showed the current list of cars as below:
 - Ferrari, (3,5) N
 It also showed the options to Start over and Exit which while selecting the option 1 to Start over it started the simulation again and when selected the option 2 for Exit the program exited with Goodbye message.
 
+
+![image](https://github.com/nparas5/letsdopython/assets/40522271/502c8c3b-9dd3-427e-b1cb-7b9c3f1ac6be)
+
 ===================================================================================================== =Scenario2 simulation Result ======================================
 
 For the scenario 2 requirement for the simulation with multiple cars, I have edited the python code to meet the requirements for scenario 2 which includes adding multiple cars and running tests with scenarios such as:
@@ -92,33 +95,14 @@ Collision output if car collides.
 
 
 
-
-
-
-
-
-
-
-
-
-
 Screenshot 1:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/nparas5/letsdopython/assets/40522271/4dea259e-a95b-4026-9b39-b30bd8ff8fae)
 
 
 
 
 Screenshot 2:
+
+![image](https://github.com/nparas5/letsdopython/assets/40522271/99af6a9a-91ce-47c7-963f-a60eb8ed6877)
